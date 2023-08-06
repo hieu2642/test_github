@@ -8,4 +8,5 @@ int k =9;
     float c = (float)a / (float)b;
     printf("%f",c);
     printf("m");
+    printf("gg");
 }
